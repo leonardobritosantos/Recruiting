@@ -1,0 +1,19 @@
+{
+    "username": "leonardo@lbsantos.com.br", 
+    "environment": "production", 
+    "project_name": "Recruiting", 
+    "workspace": "C:\\Pessoal\\Projetos\\Sublime\\workspace\\", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "SR8U5O0J4V51NS64OALPYFERD49CZ6HF", 
+    "metadata_container": "1dcj0000000heJKAAY", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
